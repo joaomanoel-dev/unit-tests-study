@@ -32,7 +32,4 @@ public class ConsultarDadosPessoaTest {
         BancoDeDados.removeDados(new Pessoa("Joao", LocalDate.now()));
     }
 
-    @Test
-    void 
-
 }

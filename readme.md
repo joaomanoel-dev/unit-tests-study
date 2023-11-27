@@ -25,3 +25,16 @@ Outros pontos importantes:
 - JUnit Jupiter 
 - JUnit Vintage
 
+## Assertions
+- AssertEquals
+- AssertNull
+- AssertNotNull
+- AssertFalse
+- AssertArrayEquals
+
+## Anotações
+- Test
+- BeforeEach - Execucao para cada teste
+- BeforeAll - Execucao unica
+- AfterEach - Execucao para cada teste
+- AfterAll - Execucao unica

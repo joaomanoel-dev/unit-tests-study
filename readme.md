@@ -38,3 +38,13 @@ Outros pontos importantes:
 - BeforeAll - Execucao unica
 - AfterEach - Execucao para cada teste
 - AfterAll - Execucao unica
+
+## Assumptions
+- AssumeTrue
+- AssumeFalse
+
+## Condicionais
+- EnabledOnOs
+- EnabledIfEnvironmentVariable
+- EnabledOnJre
+- EnabledForJreRange

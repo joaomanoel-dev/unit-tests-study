@@ -60,3 +60,17 @@ Outros pontos importantes:
 - TestMethodOrder(MethodOrderer.DisplayName.class)
 - Order
 - DisplayName
+
+# Boas Praticas
+- Buscar simplicidade
+  - Nomes faceis dos teste
+  - Facilidade de leitura
+- Começar a testar cedo
+  - Escrever o teste a cada metodo criado
+  - Ver sobre TDD
+- Padronização
+  - Nome das classes, variaveis e projetos
+- Testes precisam ser deterministicos
+- Economize tempo automatizando
+  - Jacoco
+  - Automatizar execução dos testes

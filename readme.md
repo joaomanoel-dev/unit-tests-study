@@ -48,3 +48,7 @@ Outros pontos importantes:
 - EnabledIfEnvironmentVariable
 - EnabledOnJre
 - EnabledForJreRange
+
+## Exceptions
+- assertDoesNotThrow
+- assertThrows

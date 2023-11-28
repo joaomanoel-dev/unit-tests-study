@@ -52,3 +52,11 @@ Outros pontos importantes:
 ## Exceptions
 - assertDoesNotThrow
 - assertThrows
+
+## Ordem testes
+- TestMethodOrder(MethodOrderer.OrderAnnotation.class)
+- TestMethodOrder(MethodOrderer.MethodName.class)
+- TestMethodOrder(MethodOrderer.Random.class)
+- TestMethodOrder(MethodOrderer.DisplayName.class)
+- Order
+- DisplayName
